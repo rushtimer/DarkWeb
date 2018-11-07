@@ -13,6 +13,7 @@ https://docs.scrapy.org/en/latest/intro/install.html#installing-scrapy
 scrapy startproject porject_name
 ```
 It would automatic generate a basic framework.
+
 2. Create a spider
 ```bash
 scrapy genspider spider_name domain
