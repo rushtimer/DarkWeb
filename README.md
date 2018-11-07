@@ -24,7 +24,8 @@ scrapy genspider jobs quotes.toscrape.com
 ```
 3. Run an exist spider
 
-  Go to the root directory which contains a cfg file (scrapy.cfg)
+  Go to the root directory which contains a cfg file (scrapy.cfg).
+  
   Then type the following code
   ```bash
   scrapy crawl spider_name
